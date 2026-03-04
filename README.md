@@ -71,9 +71,10 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
----
-<h3 align="center">📊 Mis Estadísticas</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seven-san&show_icons=true&theme=tokyonight&v=1&cache_seconds=86400" alt="GitHub Stats" />
-</div>
+---
+### 📊 GitHub Stats
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Seven-san&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seven-san&layout=compact&theme=tokyonight)
