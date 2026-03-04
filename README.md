@@ -1,4 +1,15 @@
-<h1 align="center">Hi</h1>
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Seven-san?cardType=github&theme=city-lights&fontFamily=&preferLogin=false" alt="My Awesome Stats">
+      </a>
+    </td>
+    <td align="center" valign="middle" width="600">
+      <h1>Hi!</h1>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Programming Technician | Frontend Developer | Cybersecurity Enthusiast</h3>
 
@@ -73,6 +84,5 @@
 </div>
 
 ---
-### 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Seven-san?cardType=github&theme=city-lights&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
