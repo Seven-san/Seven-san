@@ -74,7 +74,5 @@
 
 ---
 ### 📊 GitHub Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Seven-san?cardType=github&theme=city-lights&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Seven-san&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seven-san&layout=compact&theme=tokyonight)
