@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/omar-santiago-fernández-ortega-092758357?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/https://santiago_fer_7?igsh=M2lxbnJ1aWxheW03" target="_blank">
+  <a href="https://instagram.com/santiago_fer_7?igsh=M2lxbnJ1aWxheW03" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:TU_CORREO@gmail.com" target="_blank">
