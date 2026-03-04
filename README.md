@@ -1,11 +1,11 @@
-<table>
+<table align="center" >
   <tr>
     <td>
       <a href="https://git.io/awesome-stats-card">
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Seven-san?cardType=github&theme=city-lights&fontFamily=&preferLogin=false" alt="My Awesome Stats">
       </a>
     </td>
-    <td align="center" valign="middle" width="600">
+    <td align="center" valign="middle" width="auto">
       <h1>Hi!</h1>
     </td>
   </tr>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </div>
-
+<br>
 <p align="center">
   <i><b>Cybersecurity & Networking:</b> Metasploit, Ettercap, Wireshark, Network Routing (OSPF, NAT).</i>
 </p>
@@ -69,7 +69,7 @@
 <h3 align="center">📫 Social networks</h3>
 
 <div align="center">
-  <a href="TU_LINK_DE_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-santiago-fernández-ortega-092758357?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/TU_USUARIO_DE_IG" target="_blank">
