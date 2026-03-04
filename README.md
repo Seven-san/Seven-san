@@ -49,13 +49,13 @@
 
 ### 🚀 Experience & Highlights
 
-> 🏆 **Planst X — Full-Stack Developer**
+🏆 **Planst X — Full-Stack Developer**
 > *3rd Place Winner Worldwide.* End-to-end development of the project's architecture, managing both frontend and backend systems.
 
-> 🎤 **DiGRA — International Speaker**
+🎤 **DiGRA — International Speaker**
 > *Project: Roblox CUGDL.* Technical presentation and exhibition of the project on an international stage.
 
-> 💻 **Fiby Dog — Web Designer (UI/UX)**
+💻 **Fiby Dog — Web Designer (UI/UX)**
 > Led the website design, focusing on layout structure, visual interface, and user experience.
 
 ---
@@ -82,6 +82,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
----
+
+
 
 
