@@ -72,7 +72,7 @@
   <a href="TU_LINK_DE_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/TU_USUARIO_DE_IG" target="_blank">
+  <a href="https://instagram.com/[TU_USUARIO_DE_IG](https://www.instagram.com/santiago_fer_7?igsh=M2lxbnJ1aWxheW03)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:TU_CORREO@gmail.com" target="_blank">
