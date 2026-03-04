@@ -55,7 +55,23 @@
 - ☁️ Network Infrastructure and Cloud Computing (AWS).
 
 ---
+<h3 align="center">📫 Social networks</h3>
 
+<div align="center">
+  <a href="TU_LINK_DE_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/TU_USUARIO_DE_IG" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:TU_CORREO@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="TU_CANAL_DE_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+</div>
+---
 <h3 align="center">📊 Mis Estadísticas</h3>
 
 <div align="center">
